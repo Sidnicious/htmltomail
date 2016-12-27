@@ -1,2 +1,2 @@
 all:
-	cc -o htmltomail Helpers/ATMailHelper.m htmltomail.m -framework Cocoa -framework WebKit
+	cc -o htmltomail htmltomail.m -framework Cocoa -framework WebKit
